@@ -266,18 +266,6 @@ Building an end-to-end RAG pipeline leveraging vector databases and transformer-
 
 ---
 
-🧊 3D Contribution Calendar
-<div align="center"> <img src="https://raw.githubusercontent.com/Yashsanwal/Yashsanwal/profile-3d-contrib/profile-night-rainbow.svg"/> </div>
-
-
-📡 Advanced Metrics Dashboard
-<div align="center"> <img src="https://raw.githubusercontent.com/Yashsanwal/Yashsanwal/main/github-metrics.svg"/> </div>
-
-
-⚡ Recent GitHub Activity
-<!--START_SECTION:activity--> <!--END_SECTION:activity-->
-
-
 ## 🎯 Current Focus
 
 ```yaml
